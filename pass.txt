@@ -5,6 +5,23 @@ pass= inzamam609
  $env:MONGODB_URL = "mongodb+srv://211080_db_user:inzamam609@cluster1.ecsxvhm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
 user= 211080_db_user"
 
+Stages of run
+1.constants
+2.config
+3.artifact
+4.component
+5.pipeline
+6.run demo.py
+ 
+
+
+
+
+
+==========================================================================================================
+
+
+
 
 1. Create project template by executing template.py file
 2. Write the code on setup.py and pyproject.toml file to import local packages
