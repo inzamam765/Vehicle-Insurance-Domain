@@ -13,7 +13,8 @@ Stages of run
 5.pipeline
 6.run demo.py
  
-
+ecr= 440744245598.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
+ecr name= vehicleproj
 
 
 
